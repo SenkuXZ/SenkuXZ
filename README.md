@@ -9,7 +9,7 @@
  
  
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=SenkuXZ&color=3fada8&label=PROFILE VIEWS" />
+ <img src="https://komarev.com/ghpvc/?username=SenkuXZ&color=3fada8&label=Profile Views" />
  </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -7,4 +7,8 @@
 <a href="https://instagram.com/021senkuu_"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
  
+ <p align="center">
+ <img src="https://komarev.com/ghpvc/?username=SenkuXZ&color=3fada8&label=PROFILE VIEWS" />
+ </p>
+
 

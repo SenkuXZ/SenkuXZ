@@ -23,7 +23,7 @@
 <h3 align="left">My Repo</h3>
 
 <p align="left">
-  <a href="https://github.com/SenkuXZ/Bot-Wa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SenkuXZ&repo=whatsapp-bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/SenkuXZ/Bot-Wa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SenkuXZ&repo=Bot-Wa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
 <h3 align="left">Github Stats</h3>

@@ -16,12 +16,7 @@
 <p align="left"><a href="https://instagram.com/021senkuu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/javascript--v2.png" alt="JavaScript"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/windows/50/000000/nodejs.png" alt="NodeJs"/> </a> </p>
-
-
 <h3 align="left">My Repo</h3>
-
 <p align="left">
   <a href="https://github.com/SenkuXZ/Bot-Wa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SenkuXZ&repo=Bot-Wa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>

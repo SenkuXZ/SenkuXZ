@@ -12,7 +12,7 @@
  <img src="https://komarev.com/ghpvc/?username=SenkuXZ&color=blue&label=Profile Views" />
  </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/021senkuu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 <p align="left"><a href="https://Wa.me/6281804680327" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 </p>

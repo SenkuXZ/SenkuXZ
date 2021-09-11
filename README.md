@@ -4,7 +4,7 @@
 <h1 align='center'>Hallo bang👋 :wave:</h1>
 <p align='center'>Hi There, I'm Senku</p>
 <p align='center'>
-<a href="https://instagram.com/021senkuu_"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/021parapaaa_"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p>
  
  
@@ -13,7 +13,7 @@
  </p>
 
 <h3 align="left">Contact with me:</h3>
-<p align="left"><a href="https://instagram.com/021senkuu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yooiamthoriq" height="30" width="40" /></a>
+<p align="left"><a href="https://instagram.com/021parapaaa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 <p align="left"><a href="https://Wa.me/6281804680327" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="yooiamthoriq" height="30" width="40" /></a>
 </p>
 
